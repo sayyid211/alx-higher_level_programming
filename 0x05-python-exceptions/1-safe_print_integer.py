@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def safe_print_list_integers(my_list=[], x=0):
+def safe_print_integer(my_list=[], x=0):
     """print a list of integers
        Args:
             my_list: list to print
